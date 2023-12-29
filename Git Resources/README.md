@@ -64,3 +64,13 @@ git checkout dev # Switches to the "dev" branch
 
 ### Git command to clone existing repo from github
 ``` git clone "gitrepo.url" ```
+
+
+### Links to Video Links
+ - ##### Working Remotely with Git
+ - [Working with Remote branches](https://youtu.be/6D_YArepsuo)
+ - [What is origin in git](https://youtu.be/LIHIRBz5ZXk)
+ - [What is HEAD](https://youtu.be/ZaI1co-rt9I)
+ - [Fetching from remote](https://youtu.be/dABVkph4zo0)
+ - [Push and pull](https://youtu.be/csHeaYWspic)
+### Links to Text docs.
