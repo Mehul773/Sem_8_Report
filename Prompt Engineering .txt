@@ -1,0 +1,38 @@
+Definition : Prompt engineering is the process of structuring text that can be interpreted and understood by
+a generative AI model . 
+
+
+Importance of Prompts :
+1. prompts act as a roadmap , breaks down the complex problem 
+2. Well-designed prompts encourage critical analysis and diverse perspectives.
+3. By presenting alternative viewpoints or suggesting unconventional approaches,
+   prompts challenge us to think outside the box and consider creative solutions.
+4.Clear prompts help set expectations for what is required to solve a problem. 
+   They provide clarity on the constraints, resources, and information available
+   
+   
+Common Challenges in Prompt Design : 
+1. Ambiguity: Poorly worded or ambiguous prompts can lead to confusion and hinder problem-solving efforts
+2. Bias: Prompts that inadvertently(accidental/unintentional) introduce bias can influence problem-solving
+   outcomes.
+3. Insufficient Information: Incomplete or inadequate prompts may not provide individuals with the necessary
+   information to understand the problem fully.
+4. Overly Prescriptive: Prompts that are too prescriptive can limit creativity and restrict the exploration
+   of alternative solutions
+   
+Challenges and Strategies:
+
+1. User Perspective: Failing to understand users' knowledge and context can result in vague or technical
+   prompts. Solution: Conduct user research, gather feedback, and iterate based on insights.
+2. Jargon Usage: Using technical language can confuse users. Solution: Prioritize simplicity and clarity,
+   employing everyday language.
+3. Clarity Issues: Vague prompts hinder understanding and may cause errors. Solution: Provide clear
+   instructions, specify formats, and offer examples.
+4. Information Overload: Overloading prompts can overwhelm users. Solution: Keep prompts concise, prioritize 
+   relevant information, and organize content effectively.
+5. Error Handling: Neglecting error feedback deters successful task completion. Solution: Anticipate errors,
+   provide informative messages, and guide users on correction.
+6. User Progression: Ignoring user development hampers learning. Solution: Design prompts that gradually
+   increase in difficulty, accommodating different skill levels.
+7. User Testing: Underestimating the importance of real-world testing is a common misconception.
+   Solution: Regularly seek user feedback, conduct usability tests, and evaluate prompt effectiveness.
